@@ -1,0 +1,9 @@
+export { default as Banner} from './Banner/Banner';
+export { default as Navbar} from './Navbar/Navbar';
+export { default as InfoSection} from './InfoSection/InfoSection';
+export { default as Service} from './ServiceSection/Service';
+export { default as Footer} from './Footer/Footer';
+export { default as Minister} from './Minister/Minister';
+export { default as Blog} from './Blog/Blog';
+export { default as Event} from './Event/Event';
+export { default as Banner2} from './Banner2/Banner';
